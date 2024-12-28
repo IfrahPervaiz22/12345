@@ -73,7 +73,7 @@ while i >= 1:
         num *= 2
     print()
     i -= 1
-
+print("hello")
 
 
 
